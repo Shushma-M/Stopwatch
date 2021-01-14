@@ -1,0 +1,24 @@
+body{
+    background-color: #4B0082
+}
+svg{
+    stroke : #50BFE6 ;
+    stroke-width : 10px;
+ 
+}
+div{
+    margin:auto;
+    width:100%;
+    position: absolute;;
+
+}
+div.timer{
+    color:#AAF0D1;
+    margin: 0 auto;
+    width:99%;
+    height: 90%;
+   text-align: center;
+   margin: 0 auto;
+    font-size: 45px;
+    position: absolute;
+}
